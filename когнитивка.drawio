@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2023-10-25T16:03:56.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="M8ExacAzd3GKgCPOIDAw" version="22.0.8" type="device">
+  <diagram name="Страница — 1" id="Rkio65C2KcX7ebfm4gES">
+    <mxGraphModel dx="2876" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0EdAW84SbodpDhogGdeT-20" value="Плохое состояние дорожного покрытия" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-540" y="150" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K3dL2wdHjl4mWaWIrZxm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-750" y="-120" width="1740" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-2" value="Плохая маршрутизация&lt;br&gt;общественного транспорта" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="600" y="150" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-3" value="Неудовлетворительное качество рабочего персонала" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="790" y="150" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-4" value="Отсутствие обратной связи между пассажирами и аппаратом управления" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-730" y="150" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-12" value="Нехватка наиболее эффективных видов транспорта" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-350" y="150" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-13" value="Низкая безопасность в транспортных средствах" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-160" y="152.5" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-14" value="Отсутствие бесконтактной оплаты" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="30" y="152.5" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-15" value="Не высокотехнологичный транспорт наносящий вред окружающей среде" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="220" y="152.5" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-16" value="Плохое техническое состояние транспортных средсв" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="413.5" y="150" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-18" value="Некомпетентное управление аппаратом формирования системы общественного транспорта в Уфе" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontColor=#000000;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="80" y="-110" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-25" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="irbLmTp_FqNfcHoyAhkN-2" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="27.5" as="sourcePoint" />
+            <mxPoint x="340" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="irbLmTp_FqNfcHoyAhkN-3" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="107.5" as="sourcePoint" />
+            <mxPoint x="300" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="irbLmTp_FqNfcHoyAhkN-16" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="117.5" as="sourcePoint" />
+            <mxPoint x="310" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-28" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="irbLmTp_FqNfcHoyAhkN-15" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="127.5" as="sourcePoint" />
+            <mxPoint x="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="irbLmTp_FqNfcHoyAhkN-14" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="137.5" as="sourcePoint" />
+            <mxPoint x="330" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="irbLmTp_FqNfcHoyAhkN-13" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="147.5" as="sourcePoint" />
+            <mxPoint x="340" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-31" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="irbLmTp_FqNfcHoyAhkN-12" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="157.5" as="sourcePoint" />
+            <mxPoint x="350" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irbLmTp_FqNfcHoyAhkN-32" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0EdAW84SbodpDhogGdeT-20" target="irbLmTp_FqNfcHoyAhkN-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="167.5" as="sourcePoint" />
+            <mxPoint x="360" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ayQVaCyP6KHyGNTAfVo_-1" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="irbLmTp_FqNfcHoyAhkN-4" target="irbLmTp_FqNfcHoyAhkN-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-235" y="101.82" as="sourcePoint" />
+            <mxPoint x="-620" y="39.99518248175156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
